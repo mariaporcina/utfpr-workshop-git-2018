@@ -189,8 +189,9 @@ cd minicurso-git
 
 ## Inicializando um repositório git:
 git init
-```
 
+## Abrir visual studio code
+```
 ---
 
 <!-- Slide 18 -->
@@ -212,8 +213,6 @@ git help init
 Adicionando arquivos
 
 ```shell
-touch arquivo.txt
-
 ## Verificar estado dos arquivos do projeto:
 git status
 
