@@ -173,7 +173,7 @@ Estabelecendo uma identidade para os commits
 git config --global user.name "José da Silva"
 git config --global user.email "jose@gmail.com"
 git config --global color.ui true
-git config --global core.editor subl
+git config --global core.editor code
 ```
 
 ---
@@ -212,7 +212,7 @@ git help init
 Adicionando arquivos
 
 ```shell
-touch file.txt
+touch arquivo.txt
 
 ## Verificar estado dos arquivos do projeto:
 git status
