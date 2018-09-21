@@ -570,30 +570,6 @@ git merge <branch_name>
 
 <!-- Slide 46 -->
 
-Como atualizar a minha branch atual
-
-com as modificações da branch ao qual me baseei?
-
----
-
-<!-- Slide 47 -->
-
-Branches: Rebase
-
-```shell
-## Desnecessário se você já estiver
-## na branch que deseja atualizar
-git checkout <branch_name>
-
-## ATENÇÃO: não utilizar este comando
-## em branches públicas como a master
-git rebase master
-```
-
----
-
-<!-- Slide 48 -->
-
 Deletando branches
 
 ```shell
@@ -605,7 +581,7 @@ git branch -d <branch_name>
 
 ---
 
-<!-- Slide 49 -->
+<!-- Slide 47 -->
 
 Repositórios online
 
@@ -613,7 +589,7 @@ Criando um repositório no Github
 
 ---
 
-<!-- Slide 50 -->
+<!-- Slide 48 -->
 
 Enviando modificações para o Github
 
@@ -622,10 +598,9 @@ Enviando modificações para o Github
 git push <remote_name> <branch_name>
 git push origin master
 ```
-
 ---
 
-<!-- Slide 51 -->
+<!-- Slide 49 -->
 
 Sincronizando a branch local com o Github
 
@@ -637,22 +612,21 @@ git pull origin master
 ## OBS:
 ## git pull = git fetch + git merge FETCH_HEAD
 ```
-
 ---
 
-<!-- Slide 52 -->
+<!-- Slide 50 -->
 
 Como contribuir para um repositório?
 
 ---
 
-<!-- Slide 53 -->
+<!-- Slide 51 -->
 
 Boas Práticas
 
 ---
 
-<!-- Slide 54 -->
+<!-- Slide 52 -->
 
 Sobre commits
 
@@ -666,7 +640,7 @@ Sobre commits
 
 ---
 
-<!-- Slide 55 -->
+<!-- Slide 53 -->
 
 Sobre commits
 
@@ -679,7 +653,7 @@ Sobre commits
 
 ---
 
-<!-- Slide 56 -->
+<!-- Slide 54 -->
 
 Sobre branches
 
@@ -697,12 +671,12 @@ Sobre branches
 
 ---
 
-<!-- Slide 57 -->
+<!-- Slide 55 -->
 
 Dúvidas?
 
 ---
 
-<!-- Slide 58 -->
+<!-- Slide 56 -->
 
 Obrigado
