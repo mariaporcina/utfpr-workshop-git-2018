@@ -36,7 +36,7 @@ Agenda
 
 <!-- Slide 4 -->
 
-Por que usar sistema para controle de versão?
+Porque usar sistema para controle de versão?
 
 <ul>
     <li class="fragment">Armazenamento</li>
@@ -55,7 +55,7 @@ Utilizar DropBox, pen drives ou afins para compartilhar código muitas vezes res
 
 <!-- Slide 5 -->
 
-Onde um sistema para controle de versão pode ser útil?
+Onde um sisstema para controle de versão pode ser útil?
 
 <ul>
     <li>Desenvolvimento de software</li>
@@ -89,7 +89,7 @@ Sobre o
 
 <!-- Slide 8 -->
 
-O que é GIT
+O que e GIT
 
 <ul>
     <li class="fragment">Sistema de controle de versão de arquivos</li>
